@@ -563,7 +563,7 @@
     <jackson.version>2.13.4.2</jackson.version>
     <jline.version>2.14.6</jline.version>
     <snappy.version>1.1.9.1</snappy.version>
-    <kerby.version>2.0.0</kerby.version>
+    <kerby.version>2.0.3</kerby.version>
     <bouncycastle.version>1.60</bouncycastle.version>
     <commons-collections.version>4.4</commons-collections.version>
     <dropwizard.version>4.1.12.1</dropwizard.version>
